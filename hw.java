@@ -47,6 +47,14 @@ public class hw {
             System.out.println(" Ребенок может кататься на аттракционе без взрослого");
 
         }
+          int one = 1;
+            int two = 2;
+            int three = 3;
+            if (one < 2) {
+                System.out.println(" два больше");
+            }  else if ( two < three){
+                System.out.println( "Три больше");
+
 
         }
 
